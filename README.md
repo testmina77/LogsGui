@@ -8,7 +8,7 @@ A lightweight, header-only C++ Gui library for logs.
 - You can change colors and font in Options from menu bar.
 ## Usage
 Example code:
-```
+```cpp
 #include <LogsGui.h>
 
 int main() {
