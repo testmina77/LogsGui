@@ -9,7 +9,7 @@ A lightweight, header-only C++ Gui library for logs.
 ## Usage
 Example code:
 ```cpp
-#include <LogsGui.h>
+#include <LogsGui.hpp>
 
 int main() {
 
