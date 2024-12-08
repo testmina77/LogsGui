@@ -36,6 +36,6 @@ Effect:
 ### Other info:
 - This library is only for Windows.
 - It doesn't support other compilers than MSVC.
-- This version is for C++ only.
+- This version is for now C++14 only.
 
 Btw. This is my first project so if you find any bugs, make an issue :D.
